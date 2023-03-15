@@ -37,3 +37,27 @@ Three experiments were conducted to evaluate the effectiveness of synthetic data
 |ACL Tear Classification | Thyroid Nodule Segmentation
 :---:  |  :---:  
 <img src="media/rig_result.png"> | <img src="media/bdg_result.png">
+
+# Acknowledgement
+We would like to thank all our collaborators in this work.
+
+**Mount Sinai**: 
+
+Dr. Zahi A. Fayad, Director of BMEII
+
+**NVIDIA**: 
+
+Daiqing Li, Timo Aila, PhD, Mahdi Azizian, PhD, Risto Haukioja
+
+**University of Tübingen**: 
+
+Axel Sauer
+
+**ERMI Collaborators**: 
+
+Drs. Richard Katz, Morton Scheneider , Steven Albert, Alison Haimes ,Stephen Greenberg, Douglas Decorato, Gavin Duke, Paul Choi, Sean Herman,
+Robert Ludwig, Gwen Harris, Adam Wilner, Mark Pinals, Nicole Lee, Clyde Hershon, Michelle Klein and Barbara Braffman 
+
+David Vazquez 
+
+Justin Ponquinette
