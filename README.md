@@ -5,7 +5,7 @@ The parameters for the development of RadImageGAN include: 5000kimg,  7 stem lay
 
 # RadImageGAN 2023 GTC talk
 Join us at 2023 GTC on March 23 to learn about RadImageGAN, a new generative AI for radiology capable of generating 165 classes with various pathologies over 14 anatomical regions from CT/MR/ultrasound. 
-Sean Huver, Xueyan Mei, Timothy Deyer, Zelong Liu.
+[Sean Huver](https://scholar.google.com/citations?user=kl4jZpAAAAAJ&hl=en&oi=ao), [Xueyan Mei](https://scholar.google.com/citations?user=u3MBcfcAAAAJ&hl=en&oi=ao), [Timothy Deyer](https://scholar.google.com/citations?user=w_Q3Du4AAAAJ&hl=en&oi=ao), [Zelong Liu](https://scholar.google.com/citations?user=-70gwqgAAAAJ&hl=en&oi=ao).
 https://www.nvidia.com/gtc/session-catalog/?search=S51264&tab.catalogallsessionstab=16566177511100015Kus&ncid=so-twit-537230-vt12#/session/1666293414192001JDgi
 <p align="center">
   <img src ='media/Fq0QRYrWYAA2SeZ.jfif' width='60%'>
