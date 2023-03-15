@@ -1,5 +1,5 @@
 # RadImageGAN
-[StyleGAN-XL](https://github.com/autonomousvision/stylegan-xl) was applied to [RadImageNet](https://github.com/BMEII-AI/RadImageNet) to develop a radiologic data generator, RadImageGAN, which can generate a large quantity of synthetic images with labels that fall within the pathologic classes of RadImageNet. [BigDatasetGAN](https://github.com/nv-tlabs/bigdatasetgan_code) was subsequently applied to RadImageGAN to generate synthetic images with paired masks for segmentation. 
+The [StyleGAN-XL](https://github.com/autonomousvision/stylegan-xl) architecture was applied to the [RadImageNet](https://github.com/BMEII-AI/RadImageNet) dataset to create RadImageGAN, a multi-modal (ultrasound, CT, MRI) generator which can generate the 165 pathologic labels from RadImageNet across 14 distinct anatomies. [BigDatasetGAN](https://github.com/nv-tlabs/bigdatasetgan_code) was subsequently applied to RadImageGAN to generate synthetic images with paired masks for segmentation. 
 
 The parameters for the development of RadImageGAN include: 5000kimg,  7 stem layers, 4 head layers. Model was trained with 768 DGX-A100 hours. The 64x64 RadImageGAN generator can be requested through the following link: https://drive.google.com/file/d/1f3jxfSasNMFsCzlZ0Y0J3XX51TrA-Nvu/view?usp=sharing
 
