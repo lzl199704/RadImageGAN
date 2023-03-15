@@ -55,7 +55,7 @@ Axel Sauer
 
 **ERMI Collaborators**: 
 
-Drs. Richard Katz, Morton Scheneider , Steven Albert, Alison Haimes ,Stephen Greenberg, Douglas Decorato, Gavin Duke, Paul Choi, Sean Herman,
+Drs. Richard Katz, Morton Scheneider, Steven Albert, Alison Haimes, Stephen Greenberg, Douglas Decorato, Gavin Duke, Paul Choi, Sean Herman,
 Robert Ludwig, Gwen Harris, Adam Wilner, Mark Pinals, Nicole Lee, Clyde Hershon, Michelle Klein and Barbara Braffman 
 
 David Vazquez 
