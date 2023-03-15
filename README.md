@@ -3,7 +3,7 @@ The development of RadImageGAN is based on [RadImageNet](https://github.com/BMEI
 
 RadImageGAN examples: 
 
- <video src="media/radimagegan_video.mp4"></video>
+ <image src="media/radimagegan_video.mp4">
 
 
 
