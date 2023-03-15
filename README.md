@@ -4,7 +4,7 @@ The development of RadImageGAN is based on [RadImageNet](https://github.com/BMEI
 
 RadImageGAN example:
 <p align="center">
-  <img src="media/radimagegan_video.mp4" width="60%">
+  <video src="media/radimagegan_video.mp4" width="60%">
 </p>
 
 
