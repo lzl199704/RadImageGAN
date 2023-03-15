@@ -3,7 +3,10 @@
 The development of RadImageGAN is based on [RadImageNet](https://github.com/BMEII-AI/RadImageNet) and [StyleGAN-XL](https://github.com/autonomousvision/stylegan-xl). The parameters include: 5000kimg,  7 stem layers, 4 head layers. Model was trained with 768 DGX-A100 hours.
 
 RadImageGAN example:
-<img src="media/radimagegan_video.mp4">
+<p align="center">
+  <img src="media/radimagegan_video.mp4" width="60%">
+</p>
+
 
 Downstream evaluation:
 <img src="media/study_design.png">
