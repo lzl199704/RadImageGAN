@@ -3,7 +3,7 @@ The [StyleGAN-XL](https://github.com/autonomousvision/stylegan-xl) architecture 
 
 The parameters for the development of RadImageGAN include: 5000kimg,  7 stem layers, 4 head layers. The final 512x512 model was trained with 768 DGX-A100 hours.
 
-The 64x64 RadImageGAN generator with MIT license may be downloaded via the following link: https://drive.google.com/file/d/1BQ97vFzzoccbITtezH8Oe1bq_nv9Reqc/view?usp=sharing
+The 64x64 RadImageGAN generator with MIT license may be downloaded via the following link: https://drive.google.com/file/d/1Dbwl6aIKAWospHvRVCJIjPrWd451lWYB/view?usp=sharing
 
 For commercial inquiries of the 512x512 RadImageGAN generator, please use the contact form at [RadImageNet](https://www.radimagenet.com/). 
 
