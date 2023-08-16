@@ -1,7 +1,7 @@
 # RadImageGAN
-The [StyleGAN-XL](https://github.com/autonomousvision/stylegan-xl) architecture was applied to the [RadImageNet](https://github.com/BMEII-AI/RadImageNet) dataset to create RadImageGAN, a multi-modal (ultrasound, CT, MRI) generator which can generate the 165 pathologic labels from RadImageNet across 14 distinct anatomies. [BigDatasetGAN](https://github.com/nv-tlabs/bigdatasetgan_code) was subsequently applied to RadImageGAN to generate synthetic images with paired masks for segmentation. 
+The [StyleGAN-XL](https://github.com/autonomousvision/stylegan-xl) architecture was applied to the [RadImageNet](https://github.com/BMEII-AI/RadImageNet) and [HyperKvasir](https://osf.io/mh9sj) dataset to create RadImageGAN, a multi-modal (CT, MRI, colonoscopy) generator which can generate the 130 pathologic labels across 12 distinct anatomies. [BigDatasetGAN](https://github.com/nv-tlabs/bigdatasetgan_code) was subsequently applied to RadImageGAN to generate synthetic images with paired masks for segmentation. 
 
-The parameters for the development of RadImageGAN include: 5000kimg,  7 stem layers, 4 head layers. The final 512x512 model was trained with 768 DGX-A100 hours.
+The parameters for the development of RadImageGAN include: 5000kimg,  10 stem layers, 7 head layers (7 additional head layers with each stage of resolution increase). The final 512x512 model was trained with 4563 DGX-A100 hours (for CT/MR) and 3088 DGX-V100 hours (for colonoscopy).
 
 The 64x64 RadImageGAN generator with MIT license may be downloaded via the following link: https://drive.google.com/file/d/1Dbwl6aIKAWospHvRVCJIjPrWd451lWYB/view?usp=sharing
 
